@@ -249,8 +249,8 @@
 	#twitter-feed,
 	footer,
 	#footer-credits {
-		margin-left: -20px;
-    	margin-right: -20px;
+		/*margin-left: -20px;
+    	margin-right: -20px;*/
     	padding-left: 20px;
     	padding-right: 20px;	
 	}
@@ -450,8 +450,8 @@
 	#twitter-feed,
 	footer,
 	#footer-credits {
-		margin-left: -20px;
-    	margin-right: -20px;
+		/*margin-left: -20px;
+    	margin-right: -20px;*/
     	padding-left: 20px;
     	padding-right: 20px;	
 	}
