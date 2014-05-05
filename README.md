@@ -1,4 +1,0 @@
-amitshrikulkarni.in
-===================
-
-My PhotoBlog

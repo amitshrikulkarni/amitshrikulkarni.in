@@ -124,6 +124,10 @@ address {
 	text-align: right;	
 }
 
+.text-align-justify {
+	text-align: justify;	
+}
+
 .through{
 	text-decoration:line-through;
 }
@@ -906,6 +910,7 @@ nav#menu #menu-nav li.sfHover ul a:hover {
 	position: relative;
 	background: #F97E76;
 	padding: 70px 0 80px;
+	margin-top: 100px;
 }
 
 #intro-box h3 {
@@ -1222,6 +1227,17 @@ nav#menu #menu-nav li.sfHover ul a:hover {
 	   -moz-transition: all 0.15s ease-in-out 0s;
 		 -o-transition: all 0.15s ease-in-out 0s;
 		    transition: all 0.15s ease-in-out 0s;
+}
+
+.item-project #project-title {
+	position: relative;
+	top: 0;
+    background-color: #FFFFFF;
+    padding: 15px 0;
+    text-align: center;
+    width: 100%;
+	margin-bottom: 0;
+	border: 1px solid #E9F0F4;
 }
 
 .item-project:hover h5,
@@ -1688,6 +1704,7 @@ nav#menu #menu-nav li.sfHover ul a:hover {
 	display: block;
 }
 
+
 /* ==================================================
    Blog Single Post
 ================================================== */
@@ -1833,6 +1850,10 @@ nav#menu #menu-nav li.sfHover ul a:hover {
 
 .single-post .entry-meta .divider {
     padding: 0 3px;
+}
+
+.single-post .entry-content {
+	text-align: justify;
 }
 
 /* ==================================================
@@ -2442,7 +2463,7 @@ nav#menu #menu-nav li.sfHover ul a:hover {
 
 #latest-blog {
 	position: relative;
-	padding: 80px 0 90px;
+	/*padding: 80px 0 90px;*/
 }
 
 #latest-blog h3 {
@@ -2886,6 +2907,45 @@ footer.footer-widgets .flickr-list ul li a:hover i {
 	top: 50%;
 	margin: -8px 0 0 -8px;
 	line-height: 1em;
+}
+
+/* ==================================================
+   Infinite Scroll
+================================================== */
+
+.load-more {
+	text-align: center;
+}
+
+.infinite-spinner {
+  display: block;
+  width: 40px;
+  height: 40px;
+  border-radius: 40px;
+  background-color: #333;
+  margin: 60px auto;
+  
+  -webkit-animation: scaleout 1.0s infinite ease-in-out;
+  animation: scaleout 1.0s infinite ease-in-out;
+}
+
+@-webkit-keyframes scaleout {
+  0% { -webkit-transform: scale(0.0) }
+  100% {
+    -webkit-transform: scale(1.0);
+    opacity: 0;
+  }
+}
+
+@keyframes scaleout {
+  0% {
+    transform: scale(0.0);
+    -webkit-transform: scale(0.0);
+  } 100% {
+    transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+    opacity: 0;
+  }
 }
 
 

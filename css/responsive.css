@@ -17,6 +17,11 @@
 	#portfolio-projects li {
 		margin-bottom: 20px;
 	}
+	
+	/* Intro Box*/
+	#intro-box {
+		margin-top: 100px;
+	}	
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
@@ -55,12 +60,16 @@
 	/* Intro Box */
 	
 	#intro-box h3 {
-		font-size: 28px;	
+		font-size: 28px;
+	}
+	
+	#intro-box {
+		margin-top: 0px;
 	}
 	
 	/* Latest Work */
 	
-	#latest-work-thumbs .work-item-thumbs.span4 {
+	#latest-work-thumbs .work-item-thumbs.col-sm-4.col-md-4{
 		width: 352px;
 		margin-left: 20px;
 		margin-bottom: 20px;
@@ -68,7 +77,7 @@
 	
 	/* Latest Blog */
 	
-	#latest-blog .span4 {
+	#latest-blog .col-sm-4 {
 		width: 724px;
 	}
 	
@@ -96,7 +105,7 @@
 		margin-bottom: 20px;
 	}
 	
-	#portfolio-projects .item-project.span4 {
+	#portfolio-projects .item-project.col-sm-4.col-md-4 {
 		width: 352px;
 		margin-left: 20px;
 		margin-bottom: 20px;
@@ -237,8 +246,8 @@
 	#slider,
 	#image-static,
 	.map {
-		margin-left: -20px;
-		margin-right: -20px;	
+		/*margin-left: -20px;
+		margin-right: -20px;	*/
 	}
 	
 	header,
@@ -289,6 +298,10 @@
 	
 	#intro-box h3 {
 		font-size: 28px;	
+	}
+	
+	#intro-box {
+		margin-top: 0px;
 	}
 	
 	/* Latest Blog */
@@ -438,8 +451,8 @@
 	#slider,
 	#image-static,
 	.map {
-		margin-left: -20px;
-		margin-right: -20px;	
+		/*margin-left: -20px;
+		margin-right: -20px;	*/
 	}
 	
 	header,
@@ -500,6 +513,10 @@
 	
 	#intro-box h4 {
 		font-size: 16px;	
+	}
+	
+	#intro-box {
+		margin-top: 0px;
 	}
 	
 	/* Latest Blog */
@@ -677,6 +694,7 @@
 	#intro-box {
 		padding-top: 50px;
 		padding-bottom: 60px;	
+		margin-top: 0px;
 	}
 	
 	#intro-box h3 {

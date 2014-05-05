@@ -2,164 +2,164 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
       <loc>/404.html</loc>
-      <lastmod>2014-04-29</lastmod>
+      <lastmod>2014-05-06</lastmod>
   </url>
   <url>
       <loc>/about</loc>
-      <lastmod>2014-04-30</lastmod>
+      <lastmod>2014-05-06</lastmod>
+  </url>
+  <url>
+      <loc>/all-posts.json</loc>
+      <lastmod>2014-05-02</lastmod>
   </url>
   <url>
       <loc>/blog</loc>
-      <lastmod>2014-04-30</lastmod>
+      <lastmod>2014-05-05</lastmod>
   </url>
   <url>
       <loc>/blog/index_full.html</loc>
-      <lastmod>2014-04-30</lastmod>
+      <lastmod>2014-05-03</lastmod>
   </url>
   <url>
       <loc>/contact</loc>
-      <lastmod>2014-04-30</lastmod>
+      <lastmod>2014-05-06</lastmod>
   </url>
   <url>
       <loc>/gallery</loc>
-      <lastmod>2014-04-30</lastmod>
+      <lastmod>2014-05-05</lastmod>
   </url>
   <url>
       <loc></loc>
-      <lastmod>2014-04-27</lastmod>
+      <lastmod>2014-04-30</lastmod>
   </url>
   <url>
-      <loc>/blog/2014/03/27/bharatgad-devgad</loc>
-      <lastmod>2014-03-27</lastmod>
-      <changefreq>never</changefreq>
+      <loc>/blog/page2</loc>
+      <lastmod>2014-05-06</lastmod>
   </url>
   <url>
-      <loc>/blog/2014/02/06/nivati-sindhudurg</loc>
-      <lastmod>2014-02-06</lastmod>
-      <changefreq>never</changefreq>
+      <loc>/blog/page3</loc>
+      <lastmod>2014-05-06</lastmod>
   </url>
   <url>
-      <loc>/blog/2014/01/03/terekhol-redi</loc>
+      <loc>/blog/page4</loc>
+      <lastmod>2014-05-06</lastmod>
+  </url>
+  <url>
+      <loc>//rss.xml</loc>
+      <lastmod>2014-05-06</lastmod>
+  </url>
+  <url>
+      <loc>/blog/terekhol-redi</loc>
       <lastmod>2014-01-03</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2013/12/31/2013-pictures</loc>
+      <loc>/blog/2013-pictures</loc>
       <lastmod>2013-12-31</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2013/12/27/kokan-fort-expedition</loc>
+      <loc>/blog/kokan-fort-expedition</loc>
       <lastmod>2013-12-27</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2013/11/27/chandra-mangal</loc>
+      <loc>/blog/chandra-mangal</loc>
       <lastmod>2013-11-27</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2013/09/09/gad-ganesh</loc>
+      <loc>/blog/gad-ganesh</loc>
       <lastmod>2013-09-09</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2013/08/15/sarasgad</loc>
+      <loc>/blog/sarasgad</loc>
       <lastmod>2013-08-15</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2013/07/26/sankshi-manikgad</loc>
+      <loc>/blog/sankshi-manikgad</loc>
       <lastmod>2013-07-26</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2013/07/12/palpeshwar</loc>
+      <loc>/blog/palpeshwar</loc>
       <lastmod>2013-07-12</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2013/06/17/narayangad-bhorgiri</loc>
+      <loc>/blog/narayangad-bhorgiri</loc>
       <lastmod>2013-06-17</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2013/06/04/waiting-for-monsoon</loc>
+      <loc>/blog/waiting-for-monsoon</loc>
       <lastmod>2013-06-04</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2013/03/31/bhuleshwar-gallery</loc>
-      <lastmod>2013-03-31</lastmod>
-      <changefreq>never</changefreq>
-  </url>
-  <url>
-      <loc>/blog/2013/03/28/wai-mahaganpati</loc>
+      <loc>/blog/wai-mahaganpati</loc>
       <lastmod>2013-03-28</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2013/03/20/the-little-angels-portraits</loc>
-      <lastmod>2013-03-20</lastmod>
-      <changefreq>never</changefreq>
-  </url>
-  <url>
-      <loc>/blog/2012/10/04/secrete-camping</loc>
+      <loc>/blog/secrete-camping</loc>
       <lastmod>2012-10-04</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2012/08/25/vardhan-mahiman</loc>
+      <loc>/blog/vardhan-mahiman</loc>
       <lastmod>2012-08-25</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2012/08/23/santoshgad-varugad</loc>
+      <loc>/blog/santoshgad-varugad</loc>
       <lastmod>2012-08-23</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2012/08/22/ramblings-of-satara</loc>
+      <loc>/blog/ramblings-of-satara</loc>
       <lastmod>2012-08-22</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2012/07/11/how-we-plan-trek</loc>
+      <loc>/blog/how-we-plan-trek</loc>
       <lastmod>2012-07-11</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2012/06/19/mahad-varandha</loc>
+      <loc>/blog/mahad-varandha</loc>
       <lastmod>2012-06-19</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2012/05/24/bhairavgad</loc>
+      <loc>/blog/bhairavgad</loc>
       <lastmod>2012-05-24</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2012/04/04/tel-bel-thanale</loc>
+      <loc>/blog/tel-bel-thanale</loc>
       <lastmod>2012-04-04</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2012/02/29/ratangad</loc>
+      <loc>/blog/ratangad</loc>
       <lastmod>2012-02-29</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2011/10/02/sudhagad</loc>
+      <loc>/blog/sudhagad</loc>
       <lastmod>2011-10-02</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2011/05/07/kothaligad</loc>
+      <loc>/blog/kothaligad</loc>
       <lastmod>2011-05-07</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2011/03/01/travel-of-passenger</loc>
+      <loc>/blog/travel-of-passenger</loc>
       <lastmod>2011-03-01</lastmod>
       <changefreq>never</changefreq>
   </url>
