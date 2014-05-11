@@ -14,11 +14,11 @@
   </url>
   <url>
       <loc>/blog</loc>
-      <lastmod>2014-05-05</lastmod>
+      <lastmod>2014-05-11</lastmod>
   </url>
   <url>
       <loc>/blog/index_full.html</loc>
-      <lastmod>2014-05-03</lastmod>
+      <lastmod>2014-05-10</lastmod>
   </url>
   <url>
       <loc>/contact</loc>
@@ -26,27 +26,32 @@
   </url>
   <url>
       <loc>/gallery</loc>
-      <lastmod>2014-05-05</lastmod>
+      <lastmod>2014-05-10</lastmod>
   </url>
   <url>
       <loc></loc>
-      <lastmod>2014-04-30</lastmod>
+      <lastmod>2014-05-11</lastmod>
   </url>
   <url>
       <loc>/blog/page2</loc>
-      <lastmod>2014-05-09</lastmod>
+      <lastmod>2014-05-11</lastmod>
   </url>
   <url>
       <loc>/blog/page3</loc>
-      <lastmod>2014-05-09</lastmod>
+      <lastmod>2014-05-11</lastmod>
   </url>
   <url>
       <loc>/blog/page4</loc>
-      <lastmod>2014-05-09</lastmod>
+      <lastmod>2014-05-11</lastmod>
   </url>
   <url>
       <loc>//rss.xml</loc>
-      <lastmod>2014-05-09</lastmod>
+      <lastmod>2014-05-11</lastmod>
+  </url>
+  <url>
+      <loc>/gallery/kokan-gallery</loc>
+      <lastmod>2014-03-27</lastmod>
+      <changefreq>never</changefreq>
   </url>
   <url>
       <loc>/blog/terekhol-redi</loc>
@@ -54,7 +59,7 @@
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/2013-pictures</loc>
+      <loc>/gallery/2013-pictures</loc>
       <lastmod>2013-12-31</lastmod>
       <changefreq>never</changefreq>
   </url>
@@ -104,7 +109,7 @@
       <changefreq>never</changefreq>
   </url>
   <url>
-      <loc>/blog/secrete-camping</loc>
+      <loc>/gallery/secrete-camping</loc>
       <lastmod>2012-10-04</lastmod>
       <changefreq>never</changefreq>
   </url>
@@ -161,6 +166,16 @@
   <url>
       <loc>/blog/travel-of-passenger</loc>
       <lastmod>2011-03-01</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/gallery/london-gallery2</loc>
+      <lastmod>2010-11-15</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/gallery/london-gallery1</loc>
+      <lastmod>2010-10-27</lastmod>
       <changefreq>never</changefreq>
   </url>
 </urlset>
