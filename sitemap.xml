@@ -34,22 +34,27 @@
   </url>
   <url>
       <loc>/blog/page2</loc>
-      <lastmod>2014-05-14</lastmod>
+      <lastmod>2014-05-17</lastmod>
   </url>
   <url>
       <loc>/blog/page3</loc>
-      <lastmod>2014-05-14</lastmod>
+      <lastmod>2014-05-17</lastmod>
   </url>
   <url>
       <loc>/blog/page4</loc>
-      <lastmod>2014-05-14</lastmod>
+      <lastmod>2014-05-17</lastmod>
   </url>
   <url>
       <loc>//rss.xml</loc>
-      <lastmod>2014-05-14</lastmod>
+      <lastmod>2014-05-17</lastmod>
   </url>
   <url>
       <loc>/gallery/kokan-gallery</loc>
+      <lastmod>2014-03-27</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/blog/bharatgad-devgad</loc>
       <lastmod>2014-03-27</lastmod>
       <changefreq>never</changefreq>
   </url>
@@ -171,6 +176,11 @@
   <url>
       <loc>/blog/travel-of-passenger</loc>
       <lastmod>2011-03-01</lastmod>
+      <changefreq>never</changefreq>
+  </url>
+  <url>
+      <loc>/blog/sandhan-valley</loc>
+      <lastmod>2011-02-26</lastmod>
       <changefreq>never</changefreq>
   </url>
   <url>
